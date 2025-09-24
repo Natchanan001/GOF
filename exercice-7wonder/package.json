@@ -8,5 +8,10 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+    
+  },
+  "scripts": {
+    "test": "bun test",
+    "strategy:demo": "bun run score_strategy_demo.ts"
   }
 }
