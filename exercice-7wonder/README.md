@@ -1,3 +1,14 @@
+### How to run น้ะจ้ะ ลงบันก่อนบลาๆ
+- Install Bun
+- `bun test`  → all tests should pass
+- `bun run score_strategy_demo.ts` (or `bun run strategy:demo`)
+  - Demonstrates Strategy-based scoring adapter that keeps parity with v0.
+
+### Design & Challenges
+- See `DESIGN.md` (Strategy Pattern + OCP, migration plan)
+- See `CHALLENGES.md` (monolith → strategy, testing, data contract, etc.)
+
+
 # 7 Wonders Scoring — Baseline (No Patterns)
 
 ## Learning Goals
