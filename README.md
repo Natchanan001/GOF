@@ -77,4 +77,9 @@ Each player represents a city and chooses cards that represent buildings, wonder
 - Wonders: Each city has its own Wonder board; building stages gives special powers or points.
 - Scoring: At the end of the third Age, all categories are scored, and the player with the highest total wins.
 
+## Screenshots
+<img width="1061" height="399" alt="Screenshot 2025-09-24 at 18 13 14" src="https://github.com/user-attachments/assets/afd81627-2e1c-4089-b0d6-8d9c6d0158f1" />
+<img width="1150" height="456" alt="image" src="https://github.com/user-attachments/assets/e52652d4-d070-4ecc-8648-3094139f008c" />
+<img width="1172" height="822" alt="image" src="https://github.com/user-attachments/assets/a41eb7de-b109-4c9e-a389-66559a56fc1d" />
+
 
