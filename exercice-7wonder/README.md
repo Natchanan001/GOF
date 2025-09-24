@@ -1,4 +1,4 @@
-### How to run น้ะจ้ะ ลงบันก่อนบลาๆ
+### How to run ลงบันก่อนน้ะจ้ะ
 - Install Bun
 - `bun test`  → all tests should pass
 - `bun run score_strategy_demo.ts` (or `bun run strategy:demo`)
